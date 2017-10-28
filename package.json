@@ -1,0 +1,18 @@
+{
+  "name": "bdf2matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bdfjs": "0.0.8",
+    "bitfield": "^1.1.2",
+    "bmp-js": "0.0.3",
+    "left-pad": "^1.1.3",
+    "pngjs": "^3.3.0"
+  }
+}
